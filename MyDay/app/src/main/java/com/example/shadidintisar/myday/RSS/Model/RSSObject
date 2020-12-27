@@ -1,0 +1,16 @@
+package com.example.shadidintisar.rss.Model;
+
+import java.util.List;
+
+
+    public class Enclosure
+    {
+        public String link { get; set; }
+    }
+
+
+
+
+
+
+
